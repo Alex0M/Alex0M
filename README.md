@@ -6,7 +6,7 @@
 	</h4>
 </div>
 
-🚀 I'm an Engineer with 15+ years of experience specializing in developing infrastructure as a service. Passionate about using software-based approaches to solve complex infrastructure challenges by creating abstraction or automated tools/solutions and making the lives of product/dev teams easier and their work more productive
+🚀 I'm an Engineer with 15+ years of experience specializing in developing self-serve tools to provision infrastructure on major public cloud providers. Passionate about using software-based approaches to solve complex infrastructure challenges by creating abstraction or automated tools/solutions and making the lives of development teams easier and their work more productive
 
 👯 I’m looking to collaborate on anything Go, AWS/GCP or Kubernetes
 
